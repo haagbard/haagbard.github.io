@@ -1,7 +1,8 @@
 swagger: "2.0"
 info: 
-  title: "Swagger Sample App<script>alert(1)</script>"
-  description: "Please to click Terms of service${{7*7}}#{{7*7}}"
+  title: "Swagger Sample App"
+  description: "Please to click Terms of service<math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(1)'>">
+"
   termsOfService: "javascript:alert(document.cookie)"
   contact: 
     name: "API Support"
