@@ -1,4 +1,4 @@
-var apptoken = windows.apptoken;
+var apptoken = window.apptoken;
 
 const requestOptions = {
     method: 'POST',
