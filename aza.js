@@ -1,3 +1,5 @@
+console.log("js loaded");
+
 var text = document.getElementsByClassName('templateManager')[0].innerHTML;
 
 const requestOptions = {
