@@ -1,4 +1,4 @@
-var text = document.getElementsByClassName('templateManager')[0].innerHTML
+var text = document.getElementsByClassName('templateManager')[0].innerHTML;
 
 const requestOptions = {
     method: 'POST',
